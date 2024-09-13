@@ -1,0 +1,43 @@
+﻿symbol,scientific_name,functional_group,perennial_annual,native_invasive,spec_funct_group,family,spec_funct_group2,spec_funct_group3,spec_funct_group4
+ALDE,Alyssum desertorum,forb,annual,invasive,annual forb,Brassicaceae,annual forb,annual forb,forb
+ALTE,Allium textile,forb,perennial,native,perennial forb,Liliaceae,non-N fixing perennial forb,perennial forb,forb
+ANPA,Antennaria parvifolia,forb,perennial,native,perennial forb,Asteraceae,non-N fixing perennial forb,perennial forb,forb
+ARFR,Artemisia frigida,sub-shrub,perennial,native,perennial sub-shrub,Asteraceae,perennial sub-shrub,perennial sub-shrub/shrub,sub-shrub
+ARPU,Aristida purpurea,grass,perennial,native,C4 perennial grass,Poaceae,C4 perennial grass,C4 perennial grass,C4 grass
+ARTR,Artemisia tridentata,shrub,perennial,native,perennial shrub,Asteraceae,non-N fixing perennial shrub,perennial sub-shrub/shrub,shrub
+BOGR,Bouteloua gracilis,grass,perennial,native,C4 perennial grass,Poaceae,C4 perennial grass,C4 perennial grass,C4 grass
+BRAR,Bromus arvensis,grass,annual,invasive,annual brome ,Poaceae,annual grass,annual grass,C3 grass
+BRTE,Bromus tectorum,grass,annual,invasive,annual brome ,Poaceae,annual grass,annual grass,C3 grass
+CADU,Carex duriuscula,grass,perennial,native,C3 perennial grass,Cyperaceae,C3 perennial grass,C3 perennial grass,C3 grass
+CAFI,Carex filifolia,grass,perennial,native,C3 perennial grass,Cyperaceae,C3 perennial grass,C3 perennial grass,C3 grass
+CAMI,Camelina microcarpa,forb,annual,invasive,annual forb,Brassicaceae,annual forb,annual forb,forb
+COCA,Conyza canadensis,forb,annual,native,annual forb,Asteraceae,annual forb,annual forb,forb
+COUM,Comandra umbellata,forb,perennial,native,perennial forb,Santalaceae,non-N fixing perennial forb,perennial forb,forb
+HECO,Hesperostipa comata,grass,perennial,native,C3 perennial grass,Poaceae,C3 perennial grass,C3 perennial grass,C3 grass
+HEHI,Hedeoma hispida,forb,annual,native,annual forb,Lamiaceae,annual forb,annual forb,forb
+KOMA,Koeleria macrantha,grass,perennial,native,C3 perennial grass,Poaceae,C3 perennial grass,C3 perennial grass,C3 grass
+LASE,Lactuca serriola,forb,annual,invasive,annual forb,Asteraceae,annual forb,annual forb,forb
+LEDE,Lepidium densiflorum,forb,annual,native,annual forb,Brassicaceae,annual forb,annual forb,forb
+LOAR,Logfia arvensis,forb,annual,invasive,annual forb,Asteraceae,annual forb,annual forb,forb
+MILI,Mirabilis linearis,forb,perennial,native,perennial forb,Nyctaginaceae,non-N fixing perennial forb,perennial forb,forb
+MUDI,Musineon divaricatum,forb,perennial,native,perennial forb,Apiaceae,non-N fixing perennial forb,perennial forb,forb
+OPPO,Opuntia polyacantha,cactus,perennial,native,perennial cactus,Cactaceae,perennial cactus,perennial cactus,cactus
+PASM,Pascopyrum smithii,grass,perennial,native,C3 perennial grass,Poaceae,C3 perennial grass,C3 perennial grass,C3 grass
+PHHO,Phlox hoodii,forb,perennial,native,perennial forb,Polemoniaceae,non-N fixing perennial forb,perennial forb,forb
+PLPA,Plantago patagonica,forb,annual,native,annual forb,Plantaginaceae,annual forb,annual forb,forb
+POAV,Polygonum aviculare,forb,annual,invasive,annual forb,Polygonaceae,annual forb,annual forb,forb
+PSTE,Psoralidium tenuiflorum,forb,perennial,native,perennial forb,Fabaceae,N-fixing perennial forb,perennial forb,forb
+SPCO,Sphaeralcea coccinea,forb,perennial,native,perennial forb,Malvaceae,non-N fixing perennial forb,perennial forb,forb
+TAOF,Taraxacum officinale,forb,perennial,native,perennial forb,Asteraceae,non-N fixing perennial forb,perennial forb,forb
+TRDU,Tragopogon dubius,forb,annual,invasive,annual forb,Asteraceae,annual forb,annual forb,forb
+VIAM,Vicia americana,forb,perennial,native,perennial forb,Fabaceae,N-fixing perennial forb,perennial forb,forb
+VUOC,Vulpia octoflora,grass,annual,native,C3 annual grass,Poaceae,annual grass,annual grass,C3 grass
+ANOC,Androsace occidentalis,forb,annual,native,annual forb,Primulaceae,annual forb,annual forb,forb
+ARCA,Artemisia cana,shrub,perennial,native,perennial shrub,Asteraceae,non-N fixing perennial shrub,perennial sub-shrub/shrub,shrub
+COVI,Coryphantha vivipara,cactus,perennial,native,perennial cactus,Cactaceae,perennial cactus,perennial cactus,cactus
+ERHO,Eremogone hookeri,forb,perennial,native,perennial forb,Caryophyllaceae,non-N fixing perennial forb,perennial forb,forb
+JUTE_2020,Juncus tenuis,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+LIIN,Lithospermum incisum,forb,perennial,native,perennial forb,Boraginaceae,non-N fixing perennial forb,perennial forb,forb
+OESU,Oenotherea suffrutescens,forb,perennial,native,perennial forb,Onagraceae,non-N fixing perennial forb,perennial forb,forb
+POSE,Poa secunda,grass,perennial,native,C3 perennial grass,Poaceae,C3 perennial grass,C3 perennial grass,C3 grass
+LOFO,Lomatium foeniculaceum,forb,perennial,native,perennial forb,Apiaceae,non-N fixing perennial forb,perennial forb,forb
